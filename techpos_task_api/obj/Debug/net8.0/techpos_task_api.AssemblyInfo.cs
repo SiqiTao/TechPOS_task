@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("techpos_task_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976764eb6a32be8ff91c58aaecab730ce26f669f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ee960e6aee9aae5ca92bd163f1f06ab0e1e3cb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("techpos_task_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("techpos_task_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

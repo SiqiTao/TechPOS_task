@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\techpos_task_api.props" />
+</Project>

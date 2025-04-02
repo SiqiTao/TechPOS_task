@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6phq49Jl5nQh4zp2G+nBDd7fg6xArEhwJtKWXlL6xMw=",
+  "Source": "techpos_task_api",
+  "BasePath": "_content/techpos_task_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
